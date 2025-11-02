@@ -1,5 +1,5 @@
 def greet():
-    message = "Hello from BASE version"
+    message = "Hello from main version"
     print(message)
 
 if __name__ == "__main__":
